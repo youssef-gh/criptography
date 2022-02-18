@@ -1,4 +1,4 @@
-# Cryptography-Notebooks
+# Notebooks
 DES algorithmes de la cryptologie réalisées en Python
 
 - Cryptosystème de Rabin
